@@ -1,4 +1,4 @@
-# JBLK-ML-Project
+# Comparing Sentiment Analysis Performance Across 4 Machine Learning Models of Increasing Complexity
 
 This project applies sentiment analysis to Amazon product reviews to evaluate and compare the performance of four different machine learning models:
 - Logistic Regression
