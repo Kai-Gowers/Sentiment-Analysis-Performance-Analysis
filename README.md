@@ -6,10 +6,12 @@ This project applies sentiment analysis to Amazon product reviews to evaluate an
 - LSTM RNN
 - DistilBERT
 
-You can find the datasets we used here:
-https://www.kaggle.com/datasets/unwrangle/amazon-reviews-for-dog-food-product
-https://www.kaggle.com/datasets/arhamrumi/amazon-product-reviews
-
 We focus on classifying product reviews as positive or negative, based on review text.
+
+
+You can find the datasets we used here:
+- https://www.kaggle.com/datasets/unwrangle/amazon-reviews-for-dog-food-product
+- https://www.kaggle.com/datasets/arhamrumi/amazon-product-reviews
+
 
 Thanks for viewing!
